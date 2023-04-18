@@ -5,18 +5,18 @@ Nginx , Mysql , ElasticSearch , docker , k8s
 
 
 
-# 서버
+# Server
 
 - WAS 구성 (할일)
 - Auth-Filter 구성 (할일)
 - 게이트웨이 구성 (할일)
-
+- 
 
 # UI
 
 
 
-# 인프라
+# Infra
 
 - ElasticSearch 구성 (할일)
 - mysql 구성 (할일)
@@ -25,3 +25,6 @@ Nginx , Mysql , ElasticSearch , docker , k8s
 - DB proxy 구성 (할일)  
 - docker 구성 (할일)
 - k8s 구성 (할일)
+
+
+# 
