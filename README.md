@@ -1,7 +1,7 @@
 
 # Stack
 
-Nginx , Mysql , redis , ElasticSearch , docker , k8s
+WebSocket , kafka , Nginx , Mysql , redis , ElasticSearch , docker , k8s
 
 
 
@@ -23,9 +23,8 @@ Nginx , Mysql , redis , ElasticSearch , docker , k8s
 - redis 구성 (할일)
 - Forward Proxy 구성 (할일) 
 - Reverse Proxy 구성 (할일)
-- DB proxy 구성 (할일)  
+- DB proxy 구성 (할일)
+- kafka (구성) 할일
 - docker 구성 (할일)
 - k8s 구성 (할일)
 
-
-# 
