@@ -40,5 +40,7 @@ WebSocket , kafka , Nginx , Mysql , redis , ElasticSearch , docker , k8s
 
 # After
 
+- Mobile 개발
+- Window Client 개발
 - SSO auth Server 구성 (타 시스템 개발 후 예정)
 
