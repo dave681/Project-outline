@@ -29,7 +29,7 @@ WebSocket , kafka , Nginx , Mysql , redis , ElasticSearch , docker , k8s
 
 # UI
 
-
+- React (Bable , WebPack)
 
 # Infra
 
