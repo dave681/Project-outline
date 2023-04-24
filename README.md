@@ -1,4 +1,3 @@
-
 #Tool
 
 StarUMl -  아키텍처 
@@ -7,6 +6,11 @@ https://staruml.io/
 pixso - 프로토타입
 https://pixso.net/kr/download/
 
+
+
+# Architecture
+
+![image](https://user-images.githubusercontent.com/54939319/233907897-ca388e6c-262d-46f7-a80a-3a65f70023f7.png)
 
 
 # Stack
@@ -43,4 +47,7 @@ WebSocket , kafka , Nginx , Mysql , redis , ElasticSearch , docker , k8s
 - Mobile 개발
 - Window Client 개발
 - SSO auth Server 구성 (타 시스템 개발 후 예정)
+
+
+
 
