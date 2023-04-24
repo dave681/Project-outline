@@ -27,7 +27,7 @@ WebSocket , kafka , Nginx , Mysql , redis , ElasticSearch , docker , k8s
 - API GateWay 구성 (할일) => ( Spring cloud vs nginx )
 - WAS API 구성 (할일)
 
-# UI
+# UI (WEB)
 
 - React (Bable , WebPack)
 
